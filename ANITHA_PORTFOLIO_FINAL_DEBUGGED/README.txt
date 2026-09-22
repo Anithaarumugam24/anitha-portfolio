@@ -1,0 +1,1 @@
+ANITHA A — DEBUGGED FINAL PORTFOLIO\n\nOpen index.html directly.\n\nThe previous blank-page bug was caused by certificate JavaScript trying to call appendChild() on a null dots container. That code has been removed. Resume and original certificate assets remain embedded in this self-contained HTML.\n
